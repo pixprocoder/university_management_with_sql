@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/pixprocoder/Disk/Web Development/Next-level-projects/university-management-core-service/logs/winston/errors/.202a7fadb306a2df030faf93790aae5fe85b2c92-audit.json",
+    "files": [
+        {
+            "date": 1693495103151,
+            "name": "/media/pixprocoder/Disk/Web Development/Next-level-projects/university-management-core-service/logs/winston/errors/phu-2023-31-08-18-error.log",
+            "hash": "2c769edfea518a8eaa097880d168301b344d68d5d0458f6240f8d944d2daf04c"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -151,6 +151,7 @@ model CourseToPrerequisite {
   preRequisite Course @relation(fields: [preRequisiteId], references: [id], name: "PrerequisiteToCourse")
 
   @@id([courseId, preRequisiteId])
+  @@map("course_to_prerequisite")
 }
 
 model CourseFaculty {
